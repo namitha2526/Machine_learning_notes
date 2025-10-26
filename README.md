@@ -1,4 +1,4 @@
-A complete Machine Learning roadmap from basic to advanced level, structured as a progressive learning path.​
+## A complete Machine Learning roadmap from basic to advanced level, structured as a progressive learning path.​
 
 Phase 1: Prerequisites & Foundations (Months 1-2)
 Programming Fundamentals
