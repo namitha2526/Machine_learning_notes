@@ -1,6 +1,6 @@
 ## A complete Machine Learning roadmap from basic to advanced level, structured as a progressive learning path.​
 
-Phase 1: Prerequisites & Foundations (Months 1-2)
+### Phase 1: Prerequisites & Foundations (Months 1-2)
 Programming Fundamentals
 Python Basics: Learn variables, data types, loops, conditionals, functions, and object-oriented programming using Jupyter Notebooks for interactive coding.​
 
@@ -17,7 +17,7 @@ Calculus: Understand derivatives, gradients, partial derivatives, and chain rule
 
 Probability: Master Bayes' theorem, conditional probability, joint and marginal distributions for understanding uncertainty in models.​
 
-Phase 2: Core Machine Learning (Months 3-6)
+### Phase 2: Core Machine Learning (Months 3-6)
 Supervised Learning Algorithms
 Linear Regression: Learn simple and multiple regression, cost functions (MSE), gradient descent optimization, and regularization (L1/L2).​
 
@@ -43,7 +43,7 @@ Cross-Validation: Learn k-fold, stratified k-fold, and leave-one-out validation 
 
 Bias-Variance Tradeoff: Understand underfitting vs overfitting and how to balance model complexity.​
 
-Phase 3: Intermediate Skills (Months 7-9)
+### Phase 3: Intermediate Skills (Months 7-9)
 Feature Engineering & Preprocessing
 Data Cleaning: Handle missing values (imputation strategies), outlier detection, and duplicate removal.​
 
@@ -69,7 +69,7 @@ Recommendation Systems: Build collaborative filtering and content-based recommen
 
 Anomaly Detection: Implement isolation forests and statistical methods for outlier identification.​
 
-Phase 4: Deep Learning Fundamentals (Months 10-12)
+### Phase 4: Deep Learning Fundamentals (Months 10-12)
 Neural Network Basics
 Perceptron & MLP: Understand neurons, activation functions (ReLU, sigmoid, tanh), forward propagation, and backpropagation.​
 
@@ -93,7 +93,7 @@ Word Embeddings: Learn Word2Vec, GloVe, and how to represent words as dense vect
 
 Recurrent Neural Networks: Understand LSTMs and GRUs for sequential data processing.​
 
-Phase 5: Advanced Deep Learning (Months 13-16)
+### Phase 5: Advanced Deep Learning (Months 13-16)
 Advanced Architectures
 Transformers: Deep dive into self-attention, multi-head attention, positional encoding, BERT, and GPT models.​
 
@@ -112,7 +112,7 @@ Mixed Precision Training: Use FP16/BF16 for faster training with reduced memory 
 
 Distributed Training: Learn data parallelism and model parallelism for multi-GPU setups.​
 
-Phase 6: Production & MLOps (Months 17-18)
+### Phase 6: Production & MLOps (Months 17-18)
 Deployment Skills
 Model Serving: Deploy models using Flask, FastAPI, or Django REST frameworks.​
 
@@ -131,7 +131,7 @@ Model Monitoring: Set up drift detection, performance monitoring, and automated 
 
 Pipeline Orchestration: Use Airflow, Kubeflow, or Prefect for workflow automation.​
 
-Phase 7: Advanced Specialization (Months 19-24)
+### Phase 7: Advanced Specialization (Months 19-24)
 Research-Level Topics
 Meta-Learning: Study few-shot learning and model-agnostic meta-learning (MAML).​
 
